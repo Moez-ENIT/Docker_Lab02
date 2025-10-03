@@ -15,7 +15,7 @@ Dans cet atelier, vous allez déployer un serveur web et mettre en œuvre la tec
 
 ---
 
-1. ## Exécuter votre premier serveur web
+## Exécuter votre premier serveur web
 
    1.  Créer une page web qui affiche la date d'aujourd'hui dans le format suivant  (en Francais):
 
@@ -31,7 +31,7 @@ Dans cet atelier, vous allez déployer un serveur web et mettre en œuvre la tec
 
    6.  Démarrer le serveur web de nouveau
 
-2. ## Performances du serveur Web
+## Performances du serveur Web
 
    1.  Utiliser Apache HTTP server benchmarking tool pour tester les performances de votre serveur Web.
 
@@ -46,7 +46,7 @@ Dans cet atelier, vous allez déployer un serveur web et mettre en œuvre la tec
         
       
 
-3. ## Load balancing
+## Load balancing
 
    1.  En utilisant le fichier Dockerfile exécuter 2 instances  de votre serveur Web en mode daemon.
 
@@ -58,7 +58,7 @@ Dans cet atelier, vous allez déployer un serveur web et mettre en œuvre la tec
 
    5.  Créer un fichier docker-compose.yml permettant de répliquer votre architecture actuelle (4 conteneurs: 2 instances du serveur web, une instance NGINX et une instance  "benchmarker"). Testez votre solution.
 
-4. ## Back-end
+## Back-end
 
    1.  Créez un service web (avec le language Python) qui renvoie la date d'aujourd'hui dans le format suivant  (en Francais):
 
