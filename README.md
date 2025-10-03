@@ -15,12 +15,12 @@ Dans cet atelier, vous allez déployer un serveur web et mettre en œuvre la tec
 
 ---
 
-<span style="color:red">
-Pour chaque exercice travailler dans le repertoire qui lui correspond.
-Mettre les commandes et les reponses dans les fichiers `Readme`.
-Le code doit figurer dans le repertoire qui correspond à l'exercice en question.
+> [!IMPORTANT]
+> Pour chaque exercice travailler dans le repertoire qui lui correspond.
+> Mettre les commandes et les reponses dans les fichiers `Readme`.
+> Le code doit figurer dans le repertoire qui correspond à l'exercice en question.
 
-</span>
+
 
 ---
 ## Exécuter votre premier serveur web
